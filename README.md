@@ -1,5 +1,4 @@
 # ConvertingImagesToWebP
 # how to use:
-1.```sh
+```sh
 yarn
-2. 
